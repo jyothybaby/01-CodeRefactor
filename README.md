@@ -13,12 +13,12 @@ In style.css,
 
 
 
-Links of the project:
+Links for the  project:
 ..............................
 
 
 Google Drive: https://drive.google.com/drive/folders/1PP035EpsiO2BHTU2EBI9syJwWbAdWYGY?usp=sharing
 
-GitHub repository URL: https://github.com/jyothybaby/GT-BootCamp-HomeWork/tree/main/01-CodeRefactor
+GitHub repository URL: https://github.com/jyothybaby/01-CodeRefactor
 
-Live Webpage : https://jyothybaby.github.io/GT-BootCamp-HomeWork/01-CodeRefactor/
+Live Webpage : https://jyothybaby.github.io/01-CodeRefactor/
